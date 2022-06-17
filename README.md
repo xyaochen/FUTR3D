@@ -1,3 +1,2 @@
 # FUTR3D
-Official code base for FUTR3D.
-Stay tuned.
+The code have been released in https://github.com/Tsinghua-MARS-Lab/futr3d
